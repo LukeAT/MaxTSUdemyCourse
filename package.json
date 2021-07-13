@@ -1,0 +1,26 @@
+{
+  "name": "maxudemycourse",
+  "version": "1.0.0",
+  "description": "packages for tsc udemy course",
+  "main": "app.js",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukeAT/MaxTSUdemyCourse.git"
+  },
+  "author": "LukeAT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukeAT/MaxTSUdemyCourse/issues"
+  },
+  "homepage": "https://github.com/LukeAT/MaxTSUdemyCourse#readme"
+}
